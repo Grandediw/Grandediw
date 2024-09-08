@@ -10,6 +10,7 @@ Welcome to my GitHub profile!
 
 #### I am a Mechatronics Engineer with a passion for system design and automation!
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🔭 I’m currently working on:
 - Developing **AI-driven** solutions for individual nutritional needs at **Threpsy**.
