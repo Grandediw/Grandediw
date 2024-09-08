@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/Grandediw/Grandediw/main/header.png "Welcome to my GitHub!")
+<img src="https://raw.githubusercontent.com/Grandediw/Grandediw/main/header.png" alt="Welcome to my GitHub!" width="800">
 
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I am Stefano Tonini
 
@@ -9,8 +9,6 @@ Welcome to my GitHub profile!
 
 
 #### I am a Mechatronics Engineer with a passion for system design and automation!
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🔭 I’m currently working on:
 - Developing **AI-driven** solutions for individual nutritional needs at **Threpsy**.
