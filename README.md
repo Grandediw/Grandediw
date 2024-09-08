@@ -1,9 +1,10 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I am Stefano Tonini
 
+Welcome to my GitHub profile!
 ![Stefano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Grandediw&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Grandediw&layout=compact&theme=radical)
 
-Welcome to my GitHub profile! ### Hi there 👋
+
 I am a Mechatronics Engineer with a passion for system design and automation!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
