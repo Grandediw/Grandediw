@@ -1,6 +1,7 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I am Stefano Tonini
 
 Welcome to my GitHub profile!
+
 ![Stefano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Grandediw&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Grandediw&layout=compact&theme=radical)
 
@@ -32,10 +33,10 @@ I am a Mechatronics Engineer with a passion for system design and automation!
 - My experiences in **tutoring** math and physics, or as a **freelancer** in AI-based projects.
 
 ### 📫 How to reach me:
-- **Email**: [stefanotonini26@gmail.com](mailto:stefanotonini26@gmail.com)
-- **LinkedIn**: [Stefano Tonini](https://www.linkedin.com/in/stefano-tonini)
-- **GitHub**: [Grandediw](https://github.com/Grandediw)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefano-tonini)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:stefanotonini26@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefano-tonini)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Grandediw)
+
 
 
 ### ⚡ Fun fact:
