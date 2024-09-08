@@ -1,3 +1,5 @@
+![Header](https://raw.githubusercontent.com/Grandediw/Grandediw/main/header.png "Welcome to my GitHub!")
+
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I am Stefano Tonini
 
 Welcome to my GitHub profile!
@@ -20,9 +22,6 @@ Welcome to my GitHub profile!
 ### 🌱 I’m currently learning:
 - **Model Predictive Control**, **Scalable Machine Learning**, **Deep Learning**, and **Artificial Intelligence**.
 - Exploring **MATLAB/Simulink**, **Python**, and **C++** for advanced simulations and control systems.
-
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Grandediw)
-
 
 ### 👯 I’m looking to collaborate on:
 - **Autonomous systems** and **robotics** projects.
