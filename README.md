@@ -21,6 +21,9 @@ Welcome to my GitHub profile!
 - **Model Predictive Control**, **Scalable Machine Learning**, **Deep Learning**, and **Artificial Intelligence**.
 - Exploring **MATLAB/Simulink**, **Python**, and **C++** for advanced simulations and control systems.
 
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Grandediw)
+
+
 ### 👯 I’m looking to collaborate on:
 - **Autonomous systems** and **robotics** projects.
 - Open-source contributions involving **embedded systems** and **machine learning**.
