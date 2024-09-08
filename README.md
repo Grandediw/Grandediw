@@ -1,6 +1,11 @@
 ## Hi there 👋, I am Stefano Tonini
 
-Welcome to my GitHub profile! I’m a **Mechatronics Engineering** student passionate about **system identification**, **control systems**, **automation**, and **robotics**. I love combining software and hardware to develop innovative solutions for modern engineering challenges.
+![Stefano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Grandediw&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Grandediw&layout=compact&theme=radical)
+
+Welcome to my GitHub profile! ### Hi there 👋
+I am a Mechatronics Engineer with a passion for system design and automation!
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ### 🔭 I’m currently working on:
 - Developing **AI-driven** solutions for individual nutritional needs at **Threpsy**.
@@ -29,6 +34,8 @@ Welcome to my GitHub profile! I’m a **Mechatronics Engineering** student passi
 - **Email**: [stefanotonini26@gmail.com](mailto:stefanotonini26@gmail.com)
 - **LinkedIn**: [Stefano Tonini](https://www.linkedin.com/in/stefano-tonini)
 - **GitHub**: [Grandediw](https://github.com/Grandediw)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefano-tonini)
+
 
 ### ⚡ Fun fact:
 - I’ve played soccer for **11 years** and I’m always up for a game! ⚽
