@@ -6,8 +6,8 @@ Welcome to my GitHub profile!
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Grandediw&layout=compact&theme=radical)
 
 
-I am a Mechatronics Engineer with a passion for system design and automation!
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# I am a Mechatronics Engineer with a passion for system design and automation!
+
 
 ### 🔭 I’m currently working on:
 - Developing **AI-driven** solutions for individual nutritional needs at **Threpsy**.
