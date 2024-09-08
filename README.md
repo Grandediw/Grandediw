@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Grandediw&layout=compact&theme=radical)
 
 
-# I am a Mechatronics Engineer with a passion for system design and automation!
+#### I am a Mechatronics Engineer with a passion for system design and automation!
 
 
 ### 🔭 I’m currently working on:
