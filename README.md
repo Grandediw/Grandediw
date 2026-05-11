@@ -2,9 +2,6 @@
 
 Welcome to my GitHub profile!
 
-![Stefano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Grandediw&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Grandediw&layout=compact&theme=radical)
-
 #### Mechatronics Engineer focused on safe machine learning, data-driven control, automation, and robotics.
 
 I’m currently working at the intersection of **industrial automation**, **reinforcement learning**, and **real-time control systems**, with experience across research, R&D, software development, and AI-driven product deployment. :contentReference[oaicite:0]{index=0}
