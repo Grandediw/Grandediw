@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/Grandediw/Grandediw/main/header.png" alt="Welcome to my GitHub!" width="800">
 
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I am Stefano Tonini
+## Hi there, I am Stefano Tonini
 
 Welcome to my GitHub profile!
 
