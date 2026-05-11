@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/Grandediw/Grandediw/main/header.png" alt="Welcome to my GitHub!" width="800">
-
 ## Hi there, I am Stefano Tonini
 
 Welcome to my GitHub profile!
